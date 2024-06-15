@@ -6,8 +6,7 @@ import Header from './components/Header/Header.jsx'
 
 function App() {
   return (
-    // No need for <Fragment></Fragment>
-    <>
+    <> {/* No need for <Fragment></Fragment> */}
       <Header />
       <main>
         <CoreConcepts />
